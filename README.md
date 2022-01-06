@@ -1,3 +1,4 @@
 # WNCCVexRobotics
 ## Resources
-- http://peterseny.faculty.mjc.edu/femjc.html
+- VEX V5 Resources.pdf
+
